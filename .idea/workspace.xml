@@ -2,325 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f767628-15b3-4c35-a039-3e11a0d0acf8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kwen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Accept.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/AcceptCharset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Accesskey.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Action.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Alt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/AutoComplete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Autofocus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Autoplay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Autosave.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/BaseTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/ButtonType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Capture.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Charset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Checked.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Cite.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Class_.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Cols.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Colspan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Contenteditable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Contextmenu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Controls.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Coords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Crossorigin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/DataSource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Datetime.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Default.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Defer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Dir.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Dirname.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Disabled.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Download.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Draggable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Dropzone.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Enctype.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/For.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Formaction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Formenctype.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Formmethod.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Formnovalidate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Formtarget.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Headers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Height.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Hidden.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/High.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Href.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Hreflang.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Icon.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Id.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/InputMode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Integrity.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Ismap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Kind.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Label.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Lang.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Language.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/List.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Low.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Max.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Maxlength.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Media.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Method.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Min.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Minlength.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Multiple.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Muted.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Name.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Novalidate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Open.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Optimum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Pattern.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Placeholder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Poster.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Preload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Readonly.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Rel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Required.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Reversed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Rows.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Rowspan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Sandbox.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Scope.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Selected.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Size.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Sizes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Span.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Spellcheck.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Src.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Srcdoc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Srclang.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Srcset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Start.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Step.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Style.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Tabindex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Target.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Title.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Translate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Type.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Usemap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Value.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Width.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttributeTraits/Wrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapCheckbox.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapDate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapDiv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapEuroInput.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapInput.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapInputControl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapKeyVal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapKeyValEntry.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapKeyValTemplate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapPercentage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapRow.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapSelect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapSubmit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapTuple.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/BootstrapVector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/Vector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bootstrap/bsBtnDanger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/Address.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/Article.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/Aside.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/ContentSectioning.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/Footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/H.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/Header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/Hgroup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/Nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContentSectioning/Section.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DOMElement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DOMElementExperimental.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemarcatingEdits/Del.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemarcatingEdits/DemarcatingEdits.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemarcatingEdits/Ins.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocumentMetaData/Base.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocumentMetaData/DocumentMetaData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocumentMetaData/Link.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocumentMetaData/Meta.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocumentMetaData/Style.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocumentMetaData/Title.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/ContentSectioningEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/DemarcatingEditsEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/DocumentMetadataEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/EmbeddedContentEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/FormsEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/HTMLAttributeEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/HTMLElementEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/ImageAndMultimediaEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/InlineTextSemanticsEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/InteractiveElementsEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/MainRootEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/PreloadEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/ScriptingEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/TableContentEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/TextContentEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementEnumerations/WebComponentsEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmbeddedContent/Embed.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmbeddedContent/EmbeddedContent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmbeddedContent/Iframe.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmbeddedContent/Object.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmbeddedContent/Param.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmbeddedContent/Source.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/TypeMismatchException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Button.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/ButtonSpecializations/Submit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Datalist.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Fieldset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Forms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/FormsBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Input.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Label.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Meter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Optgroup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Option.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Output.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Progress.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Select.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Submit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/Textarea.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Checkbox.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Color.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Date.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/DatetimeLocal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Email.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/File.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Float_.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Hidden.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Image.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Month.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Number.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Password.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Radio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Range.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Reset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/SubmitInput.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Tel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Text.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Time.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Url.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/TypeSpecializations/Week.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/ButtonTypeEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/CrossoriginEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/DirEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/DropzoneEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/EncTypeEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/InputTypeEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/KindEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/MethodEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HTMLAttrEnums/ScopeEnum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageAndMultimedia/Area.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageAndMultimedia/Audio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageAndMultimedia/ImageAndMultimedia.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageAndMultimedia/Img.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageAndMultimedia/Map.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageAndMultimedia/Track.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageAndMultimedia/Video.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Abbr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Bdi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Bdo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Br.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Cite.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Code.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Dfn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Em.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/I.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/InlineTextSemantics.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Kbd.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Mark.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Q.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Rt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Rtc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Ruby.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/S.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Samp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Small.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Span.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Strong.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Sub.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Sup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Time.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/U.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Var_.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/Wbr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InlineTextSemantics/rP.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InteractiveElements/Details.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InteractiveElements/Dialog.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InteractiveElements/InteractiveElements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InteractiveElements/Menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InteractiveElements/Menuitem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InteractiveElements/Summary.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kwen.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicTraits/LabelAble.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicTraits/OnlyPhrasingContent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scripting/Canvas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scripting/Noscript.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scripting/Script.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scripting/Scripting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Caption.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Col.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Colgroup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/TableContent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Tbody.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Td.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Tfoot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Th.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Thead.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableContent/Tr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Blockquote.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/DD.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Div.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Dl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Dt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Figcaption.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Figure.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Hr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Li.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Main.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Ol.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/P.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Pre.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/TextContent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextContent/Ul.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebComponents/Content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebComponents/Element.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebComponents/Shadow.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebComponents/Slot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebComponents/Template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebComponents/WebComponents.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/vector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -337,8 +19,8 @@
       <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="102">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -493,15 +175,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524124480089</updated>
-      <workItem from="1524124481229" duration="975000" />
+      <workItem from="1524124481229" duration="1632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="975000" />
+    <option name="totallyTimeSpent" value="1632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1080" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.271875" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -547,8 +230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="102">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
