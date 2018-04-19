@@ -1,0 +1,12 @@
+{
+	"name" : "youngsource/kwen",
+	"require": {
+
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Kwen\\": "src/"
+		}
+	},
+	"version" : "0.0.1"
+}
